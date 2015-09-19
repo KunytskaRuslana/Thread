@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArrayThreadPool", "SumAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArrayAsyncDelegate", "SumArrayAsyncDelegate\SumArrayAsyncDelegate.csproj", "{BA9A0B99-2E75-4180-BFB1-BCA2A24E652B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArrayTask", "SumArrayTask\SumArrayTask.csproj", "{32F8061B-4994-41F4-90AA-4F2A950222D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArrayParallel", "SumArrayParallel\SumArrayParallel.csproj", "{715E811D-4D18-4CD5-9A7C-EB2661AACAAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{BA9A0B99-2E75-4180-BFB1-BCA2A24E652B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA9A0B99-2E75-4180-BFB1-BCA2A24E652B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA9A0B99-2E75-4180-BFB1-BCA2A24E652B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F8061B-4994-41F4-90AA-4F2A950222D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F8061B-4994-41F4-90AA-4F2A950222D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F8061B-4994-41F4-90AA-4F2A950222D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F8061B-4994-41F4-90AA-4F2A950222D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715E811D-4D18-4CD5-9A7C-EB2661AACAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715E811D-4D18-4CD5-9A7C-EB2661AACAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715E811D-4D18-4CD5-9A7C-EB2661AACAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715E811D-4D18-4CD5-9A7C-EB2661AACAAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
